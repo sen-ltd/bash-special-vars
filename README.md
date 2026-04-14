@@ -52,3 +52,10 @@ bash-special-vars/
 ## License
 
 MIT © 2026 SEN LLC (SEN 合同会社)
+
+<!-- sen-publish:links -->
+## Links
+
+- 🌐 Demo: https://sen.ltd/portfolio/bash-special-vars/
+- 📝 dev.to: https://dev.to/sendotltd/a-bash-special-variables-reference-vs-parameter-expansion-and-50-more-cpj
+<!-- /sen-publish:links -->
